@@ -1,0 +1,36 @@
+.my-class {
+  color: maroon;
+  background-color: white;
+  font-family: georgia;
+}
+
+}
+.container-fluid {
+  
+  background-color: black;
+  color: white;
+  padding-top: 30px;
+  height: 200px;
+  text-align: center;
+  
+}
+
+.fab {
+  font-size: 70px;
+  color: gold;
+
+}
+
+.fas {
+  font-size: 70px;
+    color: yellow;
+  
+}
+  font-size: 70px
+
+.commission {
+  font-size: 10px;
+  font-family: arial;
+  
+  
+}
